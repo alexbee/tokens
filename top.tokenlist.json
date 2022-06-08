@@ -6,6 +6,12 @@
     "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/all/0xEeEe1f1AE33Ed3DF3B8e615124A0bF49D4D6eeeE/logo.png",
     "name": "Elk Top Tokens",
     "timestamp": "2022-04-07T01:06:15+00:00",
+    "tags":{
+        "bridged":{
+            "name":"Bridged",
+            "description":"Support bridge"
+        }
+    },
     "tokens": [
         {
             "address": "0xEeEe1f1AE33Ed3DF3B8e615124A0bF49D4D6eeeE",
@@ -1037,7 +1043,8 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/ftm/0x5Cc61A78F164885776AA610fb0FE1257df78E59B/logo.png",
             "name": "SpiritSwap Token",
-            "symbol": "SPIRIT"
+            "symbol": "SPIRIT",
+            "tags": ["bridged"]
         },
         {
             "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
